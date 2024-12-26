@@ -1,2 +1,2 @@
-# Tensorflow Personal Trials: Multivariate Time Series and MNIST Digit Corrector.
+# Tensorflow Personal Trials: Multivariate Time Series Forecastor and MNIST Digit Corrector.
 
