@@ -1,2 +1,2 @@
-# private
-private projects
+# Tensorflow Personal Trials: Multivariate Time Series and MNIST Digit Corrector.
+
